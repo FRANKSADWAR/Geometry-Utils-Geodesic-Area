@@ -4,6 +4,17 @@ Geodesic area formulae
 
 Compute geodesic areas on draw using leaflet geoman
 
+
+
+
+
+
+
+
+
+
+
+
 map.pm.addControls({
     position: 'topleft',
     drawMarker: false,
